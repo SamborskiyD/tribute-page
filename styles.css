@@ -54,6 +54,8 @@ body {
 
 #tribute-link {
     font-style: italic;
+    text-decoration: none;
+    color: black;
 }
 
 /*  browser-sync start --server --directory --files "*"    */
