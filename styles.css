@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(248, 242, 236);
+}
+
+#main {
+    background-color: rgb(248, 242, 236);
+    font-family: monospace;
+}
+#title {
+    display: block;
+    text-align: center;
+}
+#title h1 {
+    font-size: 40px;
+}
+
+#title p {
+    font-size: 20px;
+}
+
+#img-div {
+    display: block;
+    background-color: gainsboro;
+    margin: 10px;
+}
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption {
+    font-size: 18px;
+    text-align: center;
+    padding: 20px;
+}
+#tribute-info {
+    display: block;
+    max-width: 650px;
+    text-align: left;
+    margin: auto;
+}
+
+#tribute-info h3 {
+    font-size: 24px;
+    text-align: center;
+}
+
+#tribute-info li {
+    font-size: 20px;
+    padding: 10px;
+}
+
+#tribute-link {
+    font-style: italic;
+}
+
+/*  browser-sync start --server --directory --files "*"    */
